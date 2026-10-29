@@ -43,7 +43,7 @@ Owner-approved historical local storefront captures. They show the desktop/mobil
 
 ## Development role
 
-Portfolio owner and developer: **Ak-Osama**, as identified by the owner of this project. This case study presents implementation and verification evidence. It does not attribute every module exclusively to one person or establish employment, team size or business results from commit history.
+Portfolio owner and developer: **Studio Dev (@Studiodev00)**, as identified by the owner of this project. This case study presents implementation and verification evidence. It does not attribute every module exclusively to one person or establish employment, team size or business results from commit history.
 
 ## Current boundaries
 
